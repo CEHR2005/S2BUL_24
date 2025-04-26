@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CEHR2005/S2BUL_24-FrontEnd
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CEHR2005/S2BUL_24-BackEnd
