@@ -73,6 +73,4 @@ The API documentation is available at http://localhost:8000/docs when the applic
 
 - `VITE_API_URL`: URL of the backend API
 
-## License
-
-[MIT](LICENSE)
+Advanced Programming_S2BUL_24. st2218026. Arsentii Bieliaiev
